@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.GocalSD.fluentPopupMenu.InterTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/icon_text"
+    android:clickable="true"
+    android:focusable="true"
+    android:background="?selectableItemBackground"
+    android:gravity="center|start"
+    style="@style/TextAppearance.AppCompat.Subhead"
+    android:padding="6dp"
+    android:layout_width="wrap_content"
+    android:layout_height="48dp"/>
