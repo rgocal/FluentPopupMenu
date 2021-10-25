@@ -10,8 +10,18 @@ A Material design context menu inspired by windows 11 for android. Very much lik
 
 
 # SETUP
---WIP--
-
+```
+allprojects {
+	repositories {
+		...
+		maven { url 'https://jitpack.io' }
+	}
+}
+  
+dependencies {
+	        implementation 'com.github.rgocal:FluentPopupMenu:Tag'
+}
+```
 # Starting Up
   
 ```
